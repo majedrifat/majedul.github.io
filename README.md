@@ -1,4 +1,4 @@
-# [majedul.github.io](https://majedul.github.io)
+# [majedrifat.github.io/majedul.github.io](https://majedrifat.github.io/majedul.github.io/)
 
 ## Personal portfolio website
 
