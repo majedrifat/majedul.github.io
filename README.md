@@ -2,7 +2,7 @@
 
 ## Personal portfolio website
 
-**Copyright (c) 2018-3018 Shahariar Rabby**
+**Copyright (c) 2019-3018 Md. Majedul Islam**
 
 ## Thanks to [Brittany Chiang](https://github.com/bchiang7/bchiang7.github.io)
 
